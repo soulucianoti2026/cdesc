@@ -4,6 +4,17 @@ Aplicativo Flutter com as dez telas do Figma, recursos visuais locais e fonte In
 
 ## Executar
 
+A abertura usa um degradê verde, branco e vermelho com o ícone de urna e
+confirmação. O splashscreen permanece por pelo menos 1,4 segundo enquanto o
+repositório inicializa; falhas de inicialização oferecem uma nova tentativa.
+Os ícones de Android e iOS estão incluídos no projeto. No Android 12 ou superior,
+a abertura controlada pelo sistema usa fundo verde sólido e o símbolo da urna,
+seguida pela tela Flutter com o degradê completo.
+
+Os arquivos de identidade ficam em `assets/branding/`. Para regenerar os PNGs
+e todas as resoluções nativas no Windows, execute
+`powershell -NoProfile -ExecutionPolicy Bypass -File tooling/generate-branding.ps1`.
+
 ```sh
 flutter pub get
 flutter run
