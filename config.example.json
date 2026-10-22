@@ -1,0 +1,7 @@
+{
+  "DEMO_MODE": "false",
+  "SUPABASE_URL": "https://YOUR_PROJECT.supabase.co",
+  "SUPABASE_PUBLISHABLE_KEY": "YOUR_PUBLISHABLE_KEY",
+  "GOVBR_PROVIDER": "custom:govbr",
+  "AUTH_REDIRECT_URL": "br.sc.cde://login-callback"
+}

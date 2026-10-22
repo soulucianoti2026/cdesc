@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "description": "Local checks for the Supabase schema and cryptography",
+  "scripts": {"test:sql": "node sql-test.mjs"},
+  "devDependencies": {"@electric-sql/pglite": "^0.3.14", "deno": "^2.5.0"}
+}

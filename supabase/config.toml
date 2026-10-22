@@ -1,0 +1,5 @@
+project_id = "eleicao-cde"
+
+[functions.cde-api]
+# Tokens are verified with Auth.getUser inside the function (supports signing keys).
+verify_jwt = false
