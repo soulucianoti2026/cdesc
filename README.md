@@ -2,6 +2,8 @@
 
 # Eleição CDE — Santa Catarina
 
+Esse projeto foi idealizado e desenvolvido por Luciano Azevedo Almeida em outubro de 2026 e pode ser usado para qualquer instituição pública e qualquer finalidade desde que seja reconhecido os créditos Luciano Azevedo Almeida 23/10/2026.
+
 Aplicativo Flutter com as dez telas do Figma, recursos visuais locais e fonte Inter. Inicia em modo demonstrativo, sem conta Supabase, sem autenticação real e sem enviar dados.
 
 Problema: Ajudar na participação da comunidade escolar na eleição de membros do Conselho Deliberativo Escolar (CDE) observado quando eu fui membro do segmento de pais/responsáveis e observei a baixa participação dos alunos e membros aptos a votar.
