@@ -1,4 +1,5 @@
-﻿# Eleição CDE — Santa Catarina
+﻿# Eleição CDE — Santa Catarina<img width="330" height="240" alt="image" src="https://github.com/user-attachments/assets/39fa4e47-68e9-4bde-8a31-4bbcf5c475ce" />
+
 
 Aplicativo Flutter com as dez telas do Figma, recursos visuais locais e fonte Inter. Inicia em modo demonstrativo, sem conta Supabase, sem autenticação real e sem enviar dados.
 
