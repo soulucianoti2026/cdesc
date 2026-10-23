@@ -2,6 +2,10 @@
 
 Aplicativo Flutter com as dez telas do Figma, recursos visuais locais e fonte Inter. Inicia em modo demonstrativo, sem conta Supabase, sem autenticação real e sem enviar dados.
 
+Problema: Ajudar na participação da comunidade escolar na eleição de membros do Conselho Deliberativo Escolar (CDE) observado quando eu fui membro do segmento de pais/responsáveis e observei a baixa participação dos alunos e membros aptos a votar.
+
+Solução: Um app onde atendendo as regras do Pleito o diretor possa criar as chapas e os membros da comunidade aptos possam votar.
+
 ## Executar
 
 A abertura usa um degradê verde, branco e vermelho com o ícone de urna e
